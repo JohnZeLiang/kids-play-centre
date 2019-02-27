@@ -90,10 +90,10 @@ return array(
 	| Here you may set the password required by your SMTP server to send out
 	| messages from your application. This will be given to the server on
 	| connection so that the application will be able to send messages.
-	|
+	| For security reason, the following password is a wrong one.
 	*/
 
-	'password' => 'tpg31371',
+	'password' => 'ttt42482',
 
 	/*
 	|--------------------------------------------------------------------------
